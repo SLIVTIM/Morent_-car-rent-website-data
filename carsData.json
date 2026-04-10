@@ -3,7 +3,7 @@
         "SUV": {
             "BMW X3": {
                 "type": "SUV",
-                "popular": "true",
+                "popular": true,
                 "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x3.avif",
                 "carSpecifications": {
                     "maxLiters": "570",
@@ -13,14 +13,14 @@
                 "priceTags": {
                     "currentPrice": "110",
                     "oldPrice": "",
-                    "discount": "false"
+                    "discount": false
                 }
             }
         },
         "Sedan": {
             "BMW 3 Series": {
                 "type": "Sedan",
-                "popular": "true",
+                "popular": true,
                 "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_sedan.avif",
                 "carSpecifications": {
                     "maxLiters": "480",
@@ -30,7 +30,7 @@
                 "priceTags": {
                     "currentPrice": "90",
                     "oldPrice": "79",
-                    "discount": "true"
+                    "discount": true
                 }
             }
         }
