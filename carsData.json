@@ -1,38 +1,36 @@
 [
     {
-        "SUV": {
-            "BMW X3": {
-                "type": "SUV",
-                "popular": true,
-                "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x3.avif",
-                "carSpecifications": {
-                    "maxLiters": "570",
-                    "transmissionType": "Automatic",
-                    "passengerCapacity": "5"
-                },
-                "priceTags": {
-                    "currentPrice": "110",
-                    "oldPrice": "",
-                    "discount": false
-                }
-            }
+        "name": "BMW X3",
+        "type": "SUV",
+        "color": "white",
+        "popular": true,
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x3.avif",
+        "carSpecifications": {
+            "maxLiters": "570",
+            "transmissionType": "Automatic",
+            "passengerCapacity": "5"
         },
-        "Sedan": {
-            "BMW 3 Series": {
-                "type": "Sedan",
-                "popular": true,
-                "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_sedan.avif",
-                "carSpecifications": {
-                    "maxLiters": "480",
-                    "transmissionType": "Automatic",
-                    "passengerCapacity": "5"
-                },
-                "priceTags": {
-                    "currentPrice": "90",
-                    "oldPrice": "79",
-                    "discount": true
-                }
-            }
+        "priceTags": {
+            "currentPrice": "110",
+            "oldPrice": "",
+            "discount": false
+        }
+    },
+    {
+        "name": "BMW 3 Series",
+        "type": "Sedan",
+        "color": "gray",
+        "popular": true,
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_sedan.avif",
+        "carSpecifications": {
+            "maxLiters": "480",
+            "transmissionType": "Automatic",
+            "passengerCapacity": "5"
+        },
+        "priceTags": {
+            "currentPrice": "90",
+            "oldPrice": "79",
+            "discount": true
         }
     }
 ]
