@@ -1,0 +1,38 @@
+[
+    {
+        "SUV": {
+            "BMW X3": {
+                "type": "SUV",
+                "popular": "true",
+                "previewImg": "",
+                "carSpecifications": {
+                    "maxLiters": "570",
+                    "transmissionType": "Automatic",
+                    "passengerCapacity": "5"
+                },
+                "priceTags": {
+                    "currentPrice": "110",
+                    "oldPrice": "",
+                    "discount": "false"
+                }
+            }
+        },
+        "Sedan": {
+            "BMW 3 Series": {
+                "type": "Sedan",
+                "popular": "true",
+                "previewImg": "",
+                "carSpecifications": {
+                    "maxLiters": "480",
+                    "transmissionType": "Automatic",
+                    "passengerCapacity": "5"
+                },
+                "priceTags": {
+                    "currentPrice": "90",
+                    "oldPrice": "79",
+                    "discount": "true"
+                }
+            }
+        }
+    }
+]
