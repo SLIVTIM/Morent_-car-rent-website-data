@@ -6,7 +6,7 @@
         "popular": true,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x3.avif",
         "carSpecifications": {
-            "maxLiters": "570",
+            "maxLiters": "65",
             "transmissionType": "Automatic",
             "passengerCapacity": "5"
         },
@@ -20,17 +20,51 @@
         "name": "BMW 3 Series",
         "type": "Sedan",
         "color": "gray",
-        "popular": true,
+        "popular": false,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_sedan.avif",
         "carSpecifications": {
-            "maxLiters": "480",
+            "maxLiters": "59",
             "transmissionType": "Automatic",
-            "passengerCapacity": "5"
+            "passengerCapacity": "4"
         },
         "priceTags": {
             "currentPrice": "90",
             "oldPrice": "79",
             "discount": true
         }
+    },
+    {
+        "name": "TOYOTA CAMRY",
+        "type": "Sedan",
+        "color": "white",
+        "popular": true,
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_sedan.avif",
+        "carSpecifications": {
+            "maxLiters": "60",
+            "transmissionType": "Automatic",
+            "passengerCapacity": "4"
+        },
+        "priceTags": {
+            "currentPrice": "80",
+            "oldPrice": "72",
+            "discount": true
+        }        
+    },
+    {
+        "name": "HONDA ACCORD",
+        "type": "Sedan",
+        "color": "white",
+        "popular": true,
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_sedan.avif",
+        "carSpecifications": {
+            "maxLiters": "56",
+            "transmissionType": "Automatic",
+            "passengerCapacity": "4"
+        },
+        "priceTags": {
+            "currentPrice": "90",
+            "oldPrice": "",
+            "discount": false
+        }        
     }
 ]
