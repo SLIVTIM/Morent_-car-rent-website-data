@@ -4,7 +4,7 @@
         "type": "SUV",
         "color": "white",
         "popular": true,
-        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x3.avif",
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x3_2026.avif",
         "carSpecifications": {
             "maxLiters": "65",
             "transmissionType": "Automatic",
@@ -21,7 +21,7 @@
         "type": "Sedan",
         "color": "gray",
         "popular": false,
-        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series.avif",
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_2026.avif",
         "carSpecifications": {
             "maxLiters": "59",
             "transmissionType": "Automatic",
@@ -72,7 +72,7 @@
         "type": "SUV",
         "color": "red",
         "popular": false,
-        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/honda_accord_2019.avif",
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/subaru_ascent_2026.avif",
         "carSpecifications": {
             "maxLiters": "73",
             "transmissionType": "Automatic",
@@ -89,7 +89,7 @@
         "type": "SUV",
         "color": "gray",
         "popular": true,
-        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/honda_accord_2019.avif",
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x5_2012.avif",
         "carSpecifications": {
             "maxLiters": "70",
             "transmissionType": "Manual",
@@ -106,7 +106,7 @@
         "type": "Sedan",
         "color": "gray",
         "popular": true,
-        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/honda_accord_2019.avif",
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_2004.avif",
         "carSpecifications": {
             "maxLiters": "63",
             "transmissionType": "Manual",
