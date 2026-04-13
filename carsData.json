@@ -1,6 +1,7 @@
 [
     {
         "name": "BMW X3",
+        "year": "2026",
         "type": "SUV",
         "color": "white",
         "popular": true,
@@ -18,6 +19,7 @@
     },
     {
         "name": "BMW 3 Series",
+        "year": "2026",
         "type": "Sedan",
         "color": "gray",
         "popular": false,
@@ -35,6 +37,7 @@
     },
     {
         "name": "TOYOTA CAMRY",
+        "year": "2023",
         "type": "Sedan",
         "color": "white",
         "popular": true,
@@ -52,6 +55,7 @@
     },
     {
         "name": "HONDA ACCORD",
+        "year": "2019",
         "type": "Sedan",
         "color": "white",
         "popular": true,
@@ -69,6 +73,7 @@
     },
     {
         "name": "SUBARU ASCENT",
+        "year": "2026",
         "type": "SUV",
         "color": "red",
         "popular": false,
@@ -86,6 +91,7 @@
     },
     {
         "name": "BMW X5",
+        "year": "2012",
         "type": "SUV",
         "color": "gray",
         "popular": true,
@@ -103,6 +109,7 @@
     },
     {
         "name": "BMW 3 Series",
+        "year": "2004",
         "type": "Sedan",
         "color": "gray",
         "popular": true,
