@@ -28,8 +28,8 @@
             "passengerCapacity": "4"
         },
         "priceTags": {
-            "currentPrice": "90",
-            "oldPrice": "79",
+            "currentPrice": "80",
+            "oldPrice": "68",
             "discount": true
         }
     },
@@ -66,5 +66,56 @@
             "oldPrice": "",
             "discount": false
         }        
+    },
+    {
+        "name": "SUBARU ASCENT",
+        "type": "SUV",
+        "color": "red",
+        "popular": false,
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/honda_accord_2019.avif",
+        "carSpecifications": {
+            "maxLiters": "73",
+            "transmissionType": "Automatic",
+            "passengerCapacity": "7"
+        },
+        "priceTags": {
+            "currentPrice": "140",
+            "oldPrice": "",
+            "discount": false
+        }             
+    },
+    {
+        "name": "BMW X5",
+        "type": "SUV",
+        "color": "gray",
+        "popular": true,
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/honda_accord_2019.avif",
+        "carSpecifications": {
+            "maxLiters": "70",
+            "transmissionType": "Manual",
+            "passengerCapacity": "5"
+        },
+        "priceTags": {
+            "currentPrice": "55",
+            "oldPrice": "45",
+            "discount": true
+        }             
+    },
+    {
+        "name": "BMW 3 Series",
+        "type": "Sedan",
+        "color": "gray",
+        "popular": true,
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/honda_accord_2019.avif",
+        "carSpecifications": {
+            "maxLiters": "63",
+            "transmissionType": "Manual",
+            "passengerCapacity": "4"
+        },
+        "priceTags": {
+            "currentPrice": "45",
+            "oldPrice": "",
+            "discount": false
+        }             
     }
 ]
