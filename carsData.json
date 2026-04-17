@@ -9,7 +9,7 @@
         "carSpecifications": {
             "maxLiters": "65",
             "transmissionType": "Automatic",
-            "passengerCapacity": "5"
+            "passengerCapacity": 5
         },
         "priceTags": {
             "currentPrice": "110",
@@ -27,7 +27,7 @@
         "carSpecifications": {
             "maxLiters": "59",
             "transmissionType": "Automatic",
-            "passengerCapacity": "4"
+            "passengerCapacity": 4
         },
         "priceTags": {
             "currentPrice": "80",
@@ -45,7 +45,7 @@
         "carSpecifications": {
             "maxLiters": "60",
             "transmissionType": "Automatic",
-            "passengerCapacity": "4"
+            "passengerCapacity": 4
         },
         "priceTags": {
             "currentPrice": "80",
@@ -63,7 +63,7 @@
         "carSpecifications": {
             "maxLiters": "56",
             "transmissionType": "Automatic",
-            "passengerCapacity": "4"
+            "passengerCapacity": 4
         },
         "priceTags": {
             "currentPrice": "90",
@@ -81,7 +81,7 @@
         "carSpecifications": {
             "maxLiters": "73",
             "transmissionType": "Automatic",
-            "passengerCapacity": "7"
+            "passengerCapacity": 7
         },
         "priceTags": {
             "currentPrice": "140",
@@ -99,7 +99,7 @@
         "carSpecifications": {
             "maxLiters": "70",
             "transmissionType": "Manual",
-            "passengerCapacity": "5"
+            "passengerCapacity": 5
         },
         "priceTags": {
             "currentPrice": "55",
@@ -117,7 +117,7 @@
         "carSpecifications": {
             "maxLiters": "63",
             "transmissionType": "Manual",
-            "passengerCapacity": "4"
+            "passengerCapacity": 4
         },
         "priceTags": {
             "currentPrice": "45",
