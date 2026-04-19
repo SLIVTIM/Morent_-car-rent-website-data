@@ -8,7 +8,24 @@
         "popular": true,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x3_30_2026.avif",
         "detailedImages": [
-            ""
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_0.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_1.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_2.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_3.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_4.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_5.avif",            
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_6.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_7.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_8.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_9.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_10.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_11.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_12.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_13.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_14.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_15.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_16.avif",
+            "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_17.avif"
         ],
         "carSpecifications": {
             "performance": {
@@ -47,6 +64,9 @@
         "color": "Gray",
         "popular": false,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_2026.avif",
+        "detailedImages": {
+
+        },
         "carSpecifications": {
             "performance": {
                 "maxFuelInLiters": 59,
@@ -82,6 +102,9 @@
         "color": "White",
         "popular": true,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/toyota_camry_2023.avif",
+        "detailedImages": {
+
+        },
         "carSpecifications": {
             "performance": {
                 "maxFuelInLiters": 60,
@@ -117,6 +140,9 @@
         "color": "White",
         "popular": true,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/honda_accord_2019.avif",
+        "detailedImages": {
+
+        },
         "carSpecifications": {
             "performance": {
                 "maxFuelInLiters": 56,
@@ -152,6 +178,9 @@
         "color": "Red",
         "popular": false,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/subaru_ascent_2026.avif",
+        "detailedImages": {
+
+        },
         "carSpecifications": {
             "performance": {
                 "maxFuelInLiters": 73,
@@ -187,6 +216,9 @@
         "color": "Gray",
         "popular": true,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x5_2012.avif",
+        "detailedImages": {
+
+        },
         "carSpecifications": {
             "performance": {
                 "maxFuelInLiters": 85,
@@ -222,6 +254,9 @@
         "color": "Gray",
         "popular": true,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_2004.avif",
+        "detailedImages": {
+
+        },
         "carSpecifications": {
             "performance": {
                 "maxFuelInLiters": 63,
