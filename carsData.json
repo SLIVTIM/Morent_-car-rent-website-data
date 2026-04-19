@@ -1,128 +1,252 @@
 [
     {
         "name": "BMW X3",
+        "trim": "30",
         "year": "2026",
         "type": "SUV",
         "color": "white",
         "popular": true,
-        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x3_2026.avif",
+        "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x3_30_2026.avif",
+        "detailedImages": [
+            ""
+        ],
         "carSpecifications": {
-            "maxLiters": "65",
-            "transmissionType": "Automatic",
-            "passengerCapacity": 5
+            "performance": {
+                "maxFuelInLiters": 65,
+                "fuelType": "Premium Unleaded",
+                "transmissionType": "Automatic",
+                "horsePower": 255,
+                "acceleration": "6.0s",
+                "driveTrain": "AWD",
+                "engine": "2.0L Turbocharged 4-Cylinder"
+            },
+            "practical": {
+                "seatingCapacity": 5,
+                "luggageCapacity": "31.5 cu ft",
+                "doorCount": 4
+            }
         },
+        "features": [
+            "Remote Engine Start",
+            "Panoramic Moonroof",
+            "14.9-inch Curved Display",
+            "Wireless Charging",
+            "Apple CarPlay / Android Auto"
+        ],
         "priceTags": {
             "currentPrice": "110",
-            "oldPrice": "",
+            "oldPrice": "140",
             "discount": false
         }
     },
     {
         "name": "BMW 3 Series",
+        "trim": "330i xDrive",
         "year": "2026",
         "type": "Sedan",
-        "color": "gray",
+        "color": "Gray",
         "popular": false,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_2026.avif",
         "carSpecifications": {
-            "maxLiters": "59",
-            "transmissionType": "Automatic",
-            "passengerCapacity": 4
+            "performance": {
+                "maxFuelInLiters": 59,
+                "fuelType": "Premium Unleaded",
+                "transmissionType": "Automatic",
+                "horsePower": 255,
+                "acceleration": "5.4s",
+                "driveTrain": "AWD",
+                "engine": "2.0L Turbo 4-Cylinder"
+            },
+            "practical": {
+                "seatingCapacity": 5,
+                "luggageCapacity": "17.0 cu ft",
+                "doorCount": 4
+            }
         },
-        "priceTags": {
-            "currentPrice": "80",
-            "oldPrice": "68",
-            "discount": true
+        "features": [
+            "Heated Steering Wheel", 
+            "Harman Kardon Sound", 
+            "Live Cockpit Professional"
+        ],
+        "priceTags": { 
+            "currentPrice": "80", 
+            "oldPrice": "95", 
+            "discount": true 
         }
     },
     {
-        "name": "TOYOTA CAMRY",
+        "name": "Toyota Camry",
+        "trim": "XSE",
         "year": "2023",
         "type": "Sedan",
-        "color": "white",
+        "color": "White",
         "popular": true,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/toyota_camry_2023.avif",
         "carSpecifications": {
-            "maxLiters": "60",
-            "transmissionType": "Automatic",
-            "passengerCapacity": 4
+            "performance": {
+                "maxFuelInLiters": 60,
+                "fuelType": "Regular Unleaded",
+                "transmissionType": "Automatic",
+                "horsePower": 206,
+                "acceleration": "7.6s",
+                "driveTrain": "FWD",
+                "engine": "2.5L 4-Cylinder"
+            },
+            "practical": {
+                "seatingCapacity": 5,
+                "luggageCapacity": "15.1 cu ft",
+                "doorCount": 4
+            }
         },
-        "priceTags": {
-            "currentPrice": "80",
-            "oldPrice": "72",
-            "discount": true
-        }        
+        "features": [
+            "Toyota Safety Sense", 
+            "Leather Seats", 
+            "Wireless Charging"
+        ],
+        "priceTags": { 
+            "currentPrice": "80", 
+            "oldPrice": "90", 
+            "discount": true 
+        }       
     },
     {
-        "name": "HONDA ACCORD",
+        "name": "Honda Accord",
+        "trim": "Sport",
         "year": "2019",
         "type": "Sedan",
-        "color": "white",
+        "color": "White",
         "popular": true,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/honda_accord_2019.avif",
         "carSpecifications": {
-            "maxLiters": "56",
-            "transmissionType": "Automatic",
-            "passengerCapacity": 4
+            "performance": {
+                "maxFuelInLiters": 56,
+                "fuelType": "Regular Unleaded",
+                "transmissionType": "Automatic",
+                "horsePower": 192,
+                "acceleration": "7.2s",
+                "driveTrain": "FWD",
+                "engine": "1.5L Turbocharged"
+            },
+            "practical": {
+                "seatingCapacity": 5,
+                "luggageCapacity": "16.7 cu ft",
+                "doorCount": 4
+            }
         },
-        "priceTags": {
-            "currentPrice": "90",
-            "oldPrice": "",
-            "discount": false
-        }        
+        "features": [
+            "Apple CarPlay", 
+            "Honda Sensing", 
+            "19-inch Alloy Wheels"
+        ],
+        "priceTags": { 
+            "currentPrice": "90", 
+            "oldPrice": "", 
+            "discount": false 
+        }
     },
     {
-        "name": "SUBARU ASCENT",
+        "name": "Subaru Ascent",
+        "trim": "Limited",
         "year": "2026",
         "type": "SUV",
-        "color": "red",
+        "color": "Red",
         "popular": false,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/subaru_ascent_2026.avif",
         "carSpecifications": {
-            "maxLiters": "73",
-            "transmissionType": "Automatic",
-            "passengerCapacity": 7
+            "performance": {
+                "maxFuelInLiters": 73,
+                "fuelType": "Regular Unleaded",
+                "transmissionType": "Automatic (CVT)",
+                "horsePower": 260,
+                "acceleration": "6.8s",
+                "driveTrain": "Symmetrical AWD",
+                "engine": "2.4L Turbocharged Boxer"
+            },
+            "practical": {
+                "seatingCapacity": 7,
+                "luggageCapacity": "17.8 cu ft (all seats up)",
+                "doorCount": 4
+            }
         },
-        "priceTags": {
-            "currentPrice": "140",
-            "oldPrice": "",
-            "discount": false
-        }             
+        "features": [
+            "EyeSight Driver Assist", 
+            "Starlink Multimedia", 
+            "Heated Second-Row Seats"
+        ],
+        "priceTags": { 
+            "currentPrice": "140", 
+            "oldPrice": "", 
+            "discount": false 
+        }            
     },
     {
         "name": "BMW X5",
+        "trim": "xDrive35i",
         "year": "2012",
         "type": "SUV",
-        "color": "gray",
+        "color": "Gray",
         "popular": true,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x5_2012.avif",
         "carSpecifications": {
-            "maxLiters": "70",
-            "transmissionType": "Manual",
-            "passengerCapacity": 5
+            "performance": {
+                "maxFuelInLiters": 85,
+                "fuelType": "Premium Unleaded",
+                "transmissionType": "Manual",
+                "horsePower": 300,
+                "acceleration": "6.4s",
+                "driveTrain": "AWD",
+                "engine": "3.0L Turbocharged I6"
+            },
+            "practical": {
+                "seatingCapacity": 5,
+                "luggageCapacity": "23.2 cu ft",
+                "doorCount": 4
+            }
         },
-        "priceTags": {
-            "currentPrice": "55",
-            "oldPrice": "45",
-            "discount": true
+        "features": [
+            "Park Distance Control", 
+            "Xenon Headlights", 
+            "Dual-Zone Climate Control"
+        ],
+        "priceTags": { 
+            "currentPrice": "55", 
+            "oldPrice": "65", 
+            "discount": true 
         }             
     },
     {
         "name": "BMW 3 Series",
+        "trim": "325i",
         "year": "2004",
         "type": "Sedan",
-        "color": "gray",
+        "color": "Gray",
         "popular": true,
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_2004.avif",
         "carSpecifications": {
-            "maxLiters": "63",
-            "transmissionType": "Manual",
-            "passengerCapacity": 4
+            "performance": {
+                "maxFuelInLiters": 63,
+                "fuelType": "Premium Unleaded",
+                "transmissionType": "Manual",
+                "horsePower": 184,
+                "acceleration": "7.1s",
+                "driveTrain": "RWD",
+                "engine": "2.5L Inline-6"
+            },
+            "practical": {
+                "seatingCapacity": 5,
+                "luggageCapacity": "10.7 cu ft",
+                "doorCount": 4
+            }
         },
-        "priceTags": {
-            "currentPrice": "45",
-            "oldPrice": "",
-            "discount": false
+        "features": [
+            "Classic E46 Handling", 
+            "Sunroof", 
+            "Leather Steering Wheel"
+        ],
+        "priceTags": { 
+            "currentPrice": "45", 
+            "oldPrice": "", 
+            "discount": false 
         }             
     }
 ]
