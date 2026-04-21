@@ -7,6 +7,7 @@
         "type": "SUV",
         "color": "white",
         "popular": true,
+        "description": "The X3 stands as a benchmark for the SAV segment, blending rugged capability with the sophisticated agility of a BMW sport sedan.",
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x3_30_2026.avif",
         "detailedImages": [
             "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carDetails/suv/bmw_x3_30_2026/bmw_x3_30_2026_0.avif",
@@ -51,6 +52,10 @@
             "Wireless Charging",
             "Apple CarPlay / Android Auto"
         ],
+        "reviews": [
+            { "id": 1, "name": "Alex Rivera", "profileImg": "", "rating": 5, "reviewMessage": "The new curved display is a game changer. Super smooth ride!" },
+            { "id": 2, "name": "Sarah J.", "profileImg": "", "rating": 4, "reviewMessage": "Perfect size for the family trip, though gas mileage could be better." }
+        ],
         "priceTags": {
             "currentPrice": "110",
             "oldPrice": "140",
@@ -65,6 +70,7 @@
         "type": "Sedan",
         "color": "Gray",
         "popular": false,
+        "description": "An icon for over 40 years, the 3 Series continues to define the sport sedan category through precision engineering and driver-centric tech.",
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_2026.avif",
         "detailedImages": {
 
@@ -90,11 +96,14 @@
             "Harman Kardon Sound", 
             "Live Cockpit Professional"
         ],
+        "reviews": [
+            { "id": 1, "name": "Mark Stevens", "profileImg": "", "rating": 5, "reviewMessage": "Handling is incredible. It feels like it's on rails." }
+        ],
         "priceTags": { 
             "currentPrice": "80", 
             "oldPrice": "95", 
             "discount": true 
-        }
+        }    
     },
     {
         "id": 3,
@@ -104,6 +113,7 @@
         "type": "Sedan",
         "color": "White",
         "popular": true,
+        "description": "Reliability meets a bold new aesthetic; the Camry XSE proves that a practical daily driver can still command attention on the road.",
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/toyota_camry_2023.avif",
         "detailedImages": {
 
@@ -129,6 +139,9 @@
             "Leather Seats", 
             "Wireless Charging"
         ],
+        "reviews": [
+            { "id": 1, "name": "Emily Chen", "profileImg": "", "rating": 5, "reviewMessage": "Unbeatable reliability. I never have to worry when I'm driving this." }
+        ],
         "priceTags": { 
             "currentPrice": "80", 
             "oldPrice": "90", 
@@ -143,6 +156,7 @@
         "type": "Sedan",
         "color": "White",
         "popular": true,
+        "description": "The Accord Sport rethinks the modern sedan with a turbocharged heart and a chassis tuned for those who actually enjoy the drive.",
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/honda_accord_2019.avif",
         "detailedImages": {
 
@@ -168,6 +182,9 @@
             "Honda Sensing", 
             "19-inch Alloy Wheels"
         ],
+        "reviews": [
+            { "id": 1, "name": "David L.", "profileImg": "", "rating": 4, "reviewMessage": "Very spacious interior. Great value for the price point." }
+        ],
         "priceTags": { 
             "currentPrice": "90", 
             "oldPrice": "", 
@@ -182,6 +199,7 @@
         "type": "SUV",
         "color": "Red",
         "popular": false,
+        "description": "Built for the big family adventure, the Ascent offers the safety of Symmetrical AWD and enough cup holders for every passenger's journey.",
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/subaru_ascent_2026.avif",
         "detailedImages": {
 
@@ -207,6 +225,9 @@
             "Starlink Multimedia", 
             "Heated Second-Row Seats"
         ],
+        "reviews": [
+            { "id": 1, "name": "Jessica M.", "profileImg": "", "rating": 5, "reviewMessage": "Fits all three kids and the dog comfortably. Extremely safe feel." }
+        ],
         "priceTags": { 
             "currentPrice": "140", 
             "oldPrice": "", 
@@ -221,6 +242,7 @@
         "type": "SUV",
         "color": "Gray",
         "popular": true,
+        "description": "The X5 E70 remains a favorite for its timeless design and the commanding driving position that helped launch the luxury SUV revolution.",
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/suv/bmw_x5_2012.avif",
         "detailedImages": {
 
@@ -246,6 +268,9 @@
             "Xenon Headlights", 
             "Dual-Zone Climate Control"
         ],
+        "reviews": [
+            { "id": 1, "name": "Tom H.", "profileImg": "", "rating": 4, "reviewMessage": "A classic for a reason. Still feels faster than most modern SUVs." }
+        ],
         "priceTags": { 
             "currentPrice": "55", 
             "oldPrice": "65", 
@@ -260,6 +285,7 @@
         "type": "Sedan",
         "color": "Gray",
         "popular": true,
+        "description": "The E46 generation is widely regarded as the ultimate expression of the 3 Series, striking a perfect balance between mechanical feel and luxury.",
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_2004.avif",
         "detailedImages": {
 
@@ -284,6 +310,9 @@
             "Classic E46 Handling", 
             "Sunroof", 
             "Leather Steering Wheel"
+        ],
+        "reviews": [
+            { "id": 1, "name": "Chris B.", "profileImg": "", "rating": 5, "reviewMessage": "Best driving car ever made. Pure mechanical joy." }
         ],
         "priceTags": { 
             "currentPrice": "45", 
