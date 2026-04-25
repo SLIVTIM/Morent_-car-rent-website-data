@@ -53,8 +53,8 @@
             "Apple CarPlay / Android Auto"
         ],
         "reviews": [
-            { "id": 1, "name": "Alex Rivera", "profileImg": "", "rating": 5, "reviewMessage": "The new curved display is a game changer. Super smooth ride!" },
-            { "id": 2, "name": "Sarah J.", "profileImg": "", "rating": 4, "reviewMessage": "Perfect size for the family trip, though gas mileage could be better." }
+            { "id": 1, "name": "Alex Rivera", "profileImg": "", "rating": 5, "reviewMessage": "The new curved display is a game changer. Super smooth ride!", "date": "2026-01-15" },
+            { "id": 2, "name": "Sarah J.", "profileImg": "", "rating": 4, "reviewMessage": "Perfect size for the family trip, though gas mileage could be better.", "date": "2026-02-03" }
         ],
         "priceTags": {
             "currentPrice": "110",
@@ -72,9 +72,9 @@
         "popular": false,
         "description": "An icon for over 40 years, the 3 Series continues to define the sport sedan category through precision engineering and driver-centric tech.",
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/bmw_3_series_2026.avif",
-        "detailedImages": {
+        "detailedImages": [
 
-        },
+        ],
         "carSpecifications": {
             "performance": {
                 "maxFuelInLiters": 59,
@@ -97,7 +97,7 @@
             "Live Cockpit Professional"
         ],
         "reviews": [
-            { "id": 1, "name": "Mark Stevens", "profileImg": "", "rating": 5, "reviewMessage": "Handling is incredible. It feels like it's on rails." }
+            { "id": 1, "name": "Mark Stevens", "profileImg": "", "rating": 5, "reviewMessage": "Handling is incredible. It feels like it's on rails.", "date": "2026-01-22" }
         ],
         "priceTags": { 
             "currentPrice": "80", 
@@ -115,9 +115,9 @@
         "popular": true,
         "description": "Reliability meets a bold new aesthetic; the Camry XSE proves that a practical daily driver can still command attention on the road.",
         "previewImg": "https://raw.githubusercontent.com/SLIVTIM/Morent_-car-rent-website-data/refs/heads/main/assets/carPreview/sedan/toyota_camry_2023.avif",
-        "detailedImages": {
+        "detailedImages": [
 
-        },
+        ],
         "carSpecifications": {
             "performance": {
                 "maxFuelInLiters": 60,
@@ -140,7 +140,7 @@
             "Wireless Charging"
         ],
         "reviews": [
-            { "id": 1, "name": "Emily Chen", "profileImg": "", "rating": 5, "reviewMessage": "Unbeatable reliability. I never have to worry when I'm driving this." }
+            { "id": 1, "name": "Emily Chen", "profileImg": "", "rating": 5, "reviewMessage": "Unbeatable reliability. I never have to worry when I'm driving this.", "date": "2025-11-08" }
         ],
         "priceTags": { 
             "currentPrice": "80", 
@@ -183,7 +183,7 @@
             "19-inch Alloy Wheels"
         ],
         "reviews": [
-            { "id": 1, "name": "David L.", "profileImg": "", "rating": 4, "reviewMessage": "Very spacious interior. Great value for the price point." }
+            { "id": 1, "name": "David L.", "profileImg": "", "rating": 4, "reviewMessage": "Very spacious interior. Great value for the price point.", "date": "2025-09-14" }
         ],
         "priceTags": { 
             "currentPrice": "90", 
@@ -226,7 +226,7 @@
             "Heated Second-Row Seats"
         ],
         "reviews": [
-            { "id": 1, "name": "Jessica M.", "profileImg": "", "rating": 5, "reviewMessage": "Fits all three kids and the dog comfortably. Extremely safe feel." }
+            { "id": 1, "name": "Jessica M.", "profileImg": "", "rating": 5, "reviewMessage": "Fits all three kids and the dog comfortably. Extremely safe feel.", "date": "2026-03-01" }
         ],
         "priceTags": { 
             "currentPrice": "140", 
@@ -269,7 +269,7 @@
             "Dual-Zone Climate Control"
         ],
         "reviews": [
-            { "id": 1, "name": "Tom H.", "profileImg": "", "rating": 4, "reviewMessage": "A classic for a reason. Still feels faster than most modern SUVs." }
+            { "id": 1, "name": "Tom H.", "profileImg": "", "rating": 4, "reviewMessage": "A classic for a reason. Still feels faster than most modern SUVs.", "date": "2025-07-19" }
         ],
         "priceTags": { 
             "currentPrice": "55", 
@@ -312,7 +312,7 @@
             "Leather Steering Wheel"
         ],
         "reviews": [
-            { "id": 1, "name": "Chris B.", "profileImg": "", "rating": 5, "reviewMessage": "Best driving car ever made. Pure mechanical joy." }
+            { "id": 1, "name": "Chris B.", "profileImg": "", "rating": 5, "reviewMessage": "Best driving car ever made. Pure mechanical joy.", "date": "2025-06-30" }
         ],
         "priceTags": { 
             "currentPrice": "45", 
